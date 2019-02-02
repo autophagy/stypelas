@@ -9,7 +9,7 @@ models are from Berlin or London.
 Berlin
 =======
 
-.. image:: renders/beerpinsel/final-background.png
+.. image:: renders/beerpinsel/final-title.png
     :alt: Render of the Bierpinsel
     :align: center
 
